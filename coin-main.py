@@ -27,6 +27,7 @@ coin_name.append("비골")
 coin_name.append("비토")
 coin_name.append("이클")
 coin_name.append("던프")
+coin_name.append("비캐")
 
 
 # print(coin_name)
